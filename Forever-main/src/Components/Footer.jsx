@@ -28,8 +28,8 @@ function Footer() {
                 <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1">
-            <li className="hover:text-black cursor-pointer">+91-70381-58027</li>
-            <li className="hover:text-black cursor-pointer">rohitbhisikar@gmail.com</li>
+            <li className="hover:text-black cursor-pointer">+91-748803269</li>
+            <li className="hover:text-black cursor-pointer">karankabir2002@gmail.com</li>
           </ul>
         </div>
             </div>
